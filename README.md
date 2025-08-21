@@ -1,2 +1,1 @@
-# Flower-Species-Classification
-Flower Species Classification using python and machine learning, this repository contains all the python files and dependencies related to the project
+# Flower-Species-Classification project aims to classify flower species based on their physical features such as petal and sepal measurements. Using machine learning algorithms, the model predicts the species of a flower and helps in automated plant identification and botanical research.
